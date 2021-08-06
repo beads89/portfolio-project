@@ -15,21 +15,19 @@ _This is my first independent project created using the C# and React curriculum 
 * _Bootstrap framework for CSS_
 
 
-
 ## Setup/Installation Requirements
 
 * _Download or clone github repository to local machine in desired directory_
 * _If downloaded, extract .zip contents to desired directory_
 * _Navigate to and open folder_
 * _Open index.html_
-* _This project is also available for view via gh-pages at_
+* _This project is also available for view via gh-pages at https://beads89.github.io/portfolio-project/index.html_
 
-<!-- _{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this application depends on? We recommend deleting the project from your desktop, re-cloning the project from GitHub, and writing down all the steps necessary to get the project working again.}_ -->
 
 ## Known Bugs
 
-* _Any known issues_
-* _should go here_
+* _No known bugs. Please contact if any are found!_
+
 
 ## License
 
