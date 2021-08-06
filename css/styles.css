@@ -66,4 +66,11 @@ body {
 .leftseparate {
   padding: 10px;
   border-right: double;
+  border-bottom: double;
+}
+
+.rightseparate {
+  padding: 10px;
+  border-left: double;
+  border-bottom: double;
 }
