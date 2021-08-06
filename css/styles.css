@@ -19,6 +19,7 @@
 
 .right {
   float: right;
+  display: block;
   border-spacing: 10px;
   margin: 5px;
   padding-right: 15px;
@@ -26,6 +27,10 @@
 
 body {
   background-color: bisque;
+}
+
+.jumbotron {
+  background-color: bisque !important;
 }
 
 .contact {
@@ -37,4 +42,8 @@ body {
   border-spacing: 5px;
   margin: 25px;
   box-sizing: border-box;
+}
+
+.center {
+  text-align: center;
 }
